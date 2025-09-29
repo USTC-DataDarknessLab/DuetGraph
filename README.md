@@ -3,9 +3,9 @@
 ## 📋 Introduction
 This is the implementation for the NeurIPS 2025 Conference paper 
 
-_[DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion]_.
+_[DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion](https://arxiv.org/abs/2507.11229)_.
 
-_Jin Li_, _Zezhong Ding_\*, _Xike Xie_
+_Jin Li_, _Zezhong Ding_, _Xike Xie_\*
 
 ### Abstract
 
@@ -30,6 +30,7 @@ Knowledge graphs (KGs) are vital for enabling knowledge reasoning across various
 
 ## 🌟 Citation
 The paper is coming soon.
+
 
 
 
