@@ -32,16 +32,14 @@ Knowledge graphs (KGs) are vital for enabling knowledge reasoning across various
 
 If you used our work or found it helpful, please kindly cite our paper:
 ```
-@misc{li2025duetgraphcoarsetofineknowledgegraph,
-      title={DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion}, 
-      author={Jin Li and Zezhong Ding and Xike Xie},
-      year={2025},
-      eprint={2507.11229},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2507.11229}, 
+@inproceedings{li2025duetgraph,
+title={DuetGraph: Coarse-to-Fine Knowledge Graph Reasoning with Dual-Pathway Global-Local Fusion},
+author={Jin Li and Zezhong Ding and Xike Xie},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025}
 }
 ```
+
 
 
 
