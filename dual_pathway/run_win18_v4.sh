@@ -1,0 +1,23 @@
+python main.py --seed 42 \
+               --accelerator gpu \
+               --strategy ddp \
+               --precision 32 \
+               --devices 4 \
+               --max_epochs 20 \
+               --checkpoint_save_path ./experiments/train/wn18rr_v4/ \
+               --data_path ./data/inductive/wn18rr_v4 \
+               --batch_size 64 \
+               --test_batch_size 64 \
+               --num_workers 8 \
+               --num_layer 3 \
+               --num_qk_layer 2 \
+               --num_v_layer 3 \
+               --hidden_dim 32 \
+               --num_heads 4 \
+               --loss_fn ce \
+               --learning_rate 5e-3 \
+               --optimizer Adam \
+               --weight_decay 1e-4 \
+               --k 10 \
+               --delta 8 \
+               --dataset WN18RR_v4
