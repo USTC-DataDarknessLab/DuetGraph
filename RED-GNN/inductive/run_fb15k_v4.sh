@@ -1,0 +1,1 @@
+python -W ignore train.py --data_path=data/fb237_v4

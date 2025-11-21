@@ -1,0 +1,1 @@
+python -W ignore train.py --data_path=data/WN18RR_v4
